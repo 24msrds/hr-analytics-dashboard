@@ -26,7 +26,7 @@ This project consolidates raw HR data (based on the IBM HR Analytics dataset) in
 *(screenshots below)*
 
 !https://github.com/24msrds/hr-analytics-dashboard/blob/main/HR.jpg
-![Attrition Analysis](./attrition-analysis.png)
+
 
 ## 📂 Files
 - `HR_Analytics_Dashboard.pbix` — Power BI project file
