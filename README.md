@@ -25,7 +25,7 @@ This project consolidates raw HR data (based on the IBM HR Analytics dataset) in
 ## 📸 Dashboard Preview
 *(screenshots below)*
 
-![Dashboard Overview](./dashboard-overview.png)
+!https://github.com/24msrds/hr-analytics-dashboard/blob/main/HR.jpg
 ![Attrition Analysis](./attrition-analysis.png)
 
 ## 📂 Files
